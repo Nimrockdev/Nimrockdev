@@ -1,7 +1,13 @@
 ### Hello, I'm Javier Sánchez Gómez👋
 
-📍 Spain, living in Barcelona.  
+In my career, I have gone through different positions related to software, whether as a developer, designer, manager or offering support to the end user. I understand what happens in the different phases of developing a solution.
 
+As self-taught and curious by nature, I seek to develop the best solution to design the best architecture for the project. Giving the importance it deserves to the planning, development and maintenance process. Offering continuous improvement in processes. Looking for the balance between the engineering part and the human part. In the moments that we live, it is very common to see how there are projects that dominate people, when it is technology that should help us.
+
+Computing makes me renew myself every day, learning new technologies, skills, adapting work methodologies, such as the ability to manage projects or work teams, to guarantee the best solution, always offering to transmit trust, enthusiasm and organization.
+
+
+📍 Spain, Barcelona.  
 Developer for the world.
 </br>
 <!--
