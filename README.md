@@ -11,7 +11,6 @@ Computing makes me renew myself every day, learning new technologies, skills, ad
 
 
 📍 Spain, Barcelona.  
-Developer for the world.
 </br>
 <!--
 ## Skills
