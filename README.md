@@ -18,8 +18,15 @@ Computing makes me renew myself every day, learning new technologies, skills, ad
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <img src="https://img.shields.io/badge/javier-jasago2010%40gmail.com-blue?style=for-the-badge&logo=gmail" (mailto:braismoure@mouredev.com)/>
+  <img src="https://img.shields.io/badge/javier-jasago2010%40gmail.com-blue?style=for-the-badge&logo=gmail">
   
-  <img src="https://img.shields.io/badge/-stats-blue?style=for-the-badge&logo=starship" />
+  <img src="https://img.shields.io/badge/-stats-blue?style=for-the-badge&logo=starship">
 
+
+
+   <a target="_blank" href="mailto:jasago2010@gmail.com">
+   <img src="https://img.shields.io/badge/javier-jasago2010%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="GMAIL">
+  </a>
+  
+  
 </p>
