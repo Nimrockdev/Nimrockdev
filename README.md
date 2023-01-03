@@ -13,19 +13,13 @@ Computing makes me renew myself every day, learning new technologies, skills, ad
 📍 Spain, Barcelona.  
 </br>
 
-## Contact me:
-<img src="https://img.shields.io/badge/Javier-jasago2010@gmail.com-informational" />
-
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/javier-s%C3%A1nchez-g%C3%B3mez-84418ba1/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
-  <img src="https://img.shields.io/badge/javier-jasago2010%40gmail.com-blue?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/javier-jasago2010%40gmail.com-blue?style=for-the-badge&logo=gmail" (mailto:braismoure@mouredev.com)/>
   
   <img src="https://img.shields.io/badge/-stats-blue?style=for-the-badge&logo=starship" />
 
 </p>
-
-    
-  </a>
