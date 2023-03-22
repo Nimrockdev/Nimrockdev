@@ -7,7 +7,7 @@
 
 <p align="center"> Soy de Barcelona, España </p>
 <p align="center"> Trabajo como Desarrollador de Software </p>
-<p align="center"> Revisa mis proyectos en github</p>
+<p align="center"> Revisa mis proyectos en GitHub</p>
 
 
 
