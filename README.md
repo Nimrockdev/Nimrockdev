@@ -5,14 +5,13 @@
 
 </br>
 
-<p align="center"> Soy de Barcelona, España </p>
-<p align="center"> Trabajo como Desarrollador de Software </p>
-<p align="center"> Revisa mis proyectos en GitHub</p>
+
+<p align="center"> I'm from Barcelona Spain <br>
+                  I work as a Software Developer <br>
+                  Check my projects on GitHub </p>
 
 
-
-
-
+</br>
 </br>
 
 <p align="center">
