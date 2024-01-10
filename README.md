@@ -1,14 +1,13 @@
 
 ![https://github.com/nimrockdev](https://raw.githubusercontent.com/Nimrockdev/Nimrockdev/master/assets/banner%20Nimrockdev.png)  
 
-<h2 align="center"> Hello!! I'm Javier Sánchez Gómez </h2>
+<h2 align="center">Hola! Soy Javier Sánchez Gómez </h2>
 
 </br>
 
 
-<p align="center"> I'm from Barcelona Spain <br>
-                  I work as a Software Developer <br>
-                  Check my projects on GitHub </p>
+<p align="center"> Soy desarrollador de software con más de 10 años de experiencia <br>
+                                   Revisa mi contenido </p>
 
 
 </br>
