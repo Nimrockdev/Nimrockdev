@@ -5,14 +5,9 @@
 
 </br>
 
-
-<p align="center"> Soy desarrollador de software con más de 10 años de experiencia <br>
-                                   Revisa mi contenido </p>
-
-
+<p align="center"> 💻 Desarrollador Full Stack | +10 años de experiencia
+Soy un desarrollador apasionado por crear soluciones tecnológicas robustas y escalables. Con más de una década de experiencia en el desarrollo de software, me especializo en construir aplicaciones web modernas utilizando las últimas tecnologías del ecosistema JavaScript y trabajando con arquitecturas distribuidas. </p>
 </br>
-</br>
-
 <p align="center">
 
   <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.vercel.app/api?username=nimrockdev&show_icons=true&theme=tokyonight" />  
@@ -28,9 +23,8 @@
   </br>
 
 </p>
-
-
-
+  
+<p align="center"> 📫 Conecta conmigo </p>
 <p align="center">
   <a target="_blank" href="https://github.com/Nimrockdev/stats">
    <img src="https://img.shields.io/badge/-stats-blue?style=for-the-badge&logo=starship">
@@ -52,4 +46,6 @@
    <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" height= 100px alt ="Administración de Amenazas Cibernéticas">
   </a>
 </p>
+
+
 
