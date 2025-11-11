@@ -48,5 +48,8 @@
   <a target="_blank" href="https://www.credly.com/earner/earned/badge/963eaaef-718a-42dd-a422-bb3d66928f38">
    <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" height= 100px alt ="Introduction to Cybersecurity">
   </a>
-
+  <a target="_blank" href="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png">
+   <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" height= 100px alt ="Administración de Amenazas Cibernéticas">
+  </a>
 </p>
+
