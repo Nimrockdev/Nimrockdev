@@ -5,8 +5,8 @@
 
 </br>
 
-<p align="center"> 💻 Desarrollador Full Stack | +10 años de experiencia
-Soy un desarrollador apasionado por crear soluciones tecnológicas robustas y escalables. Con más de una década de experiencia en el desarrollo de software, me especializo en construir aplicaciones web modernas utilizando las últimas tecnologías del ecosistema JavaScript y trabajando con arquitecturas distribuidas. </p>
+<p align="center"> 💻 Desarrollador Full Stack | +10 años de experiencia.
+Desarrollador apasionado por crear soluciones tecnológicas robustas y escalables. Con más de una década de experiencia en el desarrollo de software, me especializo en construir aplicaciones utilizando las últimas tecnologías y trabajando con arquitecturas distribuidas. </p>
 </br>
 <p align="center">
 
