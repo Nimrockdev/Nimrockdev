@@ -45,7 +45,7 @@ Desarrollador apasionado por crear soluciones tecnológicas robustas y escalable
   <a target="_blank" href="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png">
    <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" height= 100px alt ="Administración de Amenazas Cibernéticas">
   </a>
+  <a target="_blank" href="https://images.credly.com/size/340x340/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png">
+   <img src="https://images.credly.com/size/340x340/images/1fdfeaeb-e61c-4450-bdfe-a07bd4e715df/image.png" height= 100px alt ="Data Analytics Essentials">
+  </a>
 </p>
-
-
-
