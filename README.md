@@ -33,7 +33,7 @@
 Desarrollador apasionado por crear soluciones tecnológicas **robustas y escalables**. Con más de una década de experiencia en el ciclo de vida completo de aplicaciones críticas, me especializo en full-stack development con enfoque en arquitectura backend resiliente.
 
 **Especialidades:**
-- 🎯 Full-Stack Development (Node.js, React, TypeScript)
+- 🎯 Full-Stack Development
 - 🏗️ Arquitectura de Software escalable
 - 🚀 DevOps & Cloud Infrastructure
 - 🔐 Seguridad en aplicaciones
@@ -47,66 +47,27 @@ Desarrollador apasionado por crear soluciones tecnológicas **robustas y escalab
 
 ### Frontend
 
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" title="AngularJS" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" title="Electron" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="Webpack" width="48" height="48"/>
-</p>
+JavasScript, React, AngularJS, Electron ....
 
 ### Backend
 
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="Express" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" title="GraphQL" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" title="WebSockets / Socket.io" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" title="Sequelize" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" width="48" height="48"/>
-</p>
+Node.js, Express, GrahQL, WebSockets, Socket.oi, Squelize, TypeScript...
 
 ### Bases de Datos
 
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="Postgresql" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="Firebase" width="48" height="48"/>
-</p>
+MongoDB, MySQL, PosgreSQL, Firebase...
 
 ### DevOps & Cloud
 
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" title="GitLab" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" title="Jenkins" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" title="Heroku" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux / Debian" width="48" height="48"/>
-</p>
+Docker, Jenkin, Git, GitHub, GitLab, Heroku, Linux, Debian, Ubuntu, Bash, Scripts....
 
 ### Gestión de Proyectos
 
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" height="40"/>
-  <img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white" alt="Redmine" height="40"/>
-</p>
+Redmine, Jira
 
 ### 🤖 IA & Automatización
 
-<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="https://img.shields.io/badge/Claude-white?style=for-the-badge&logo=claude&logoColor=black" alt="Claude" height="40"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" height="40"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" height="40"/>
-  <img src="https://img.shields.io/badge/Ollama_(Local_LLMs)-222222?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" height="40"/>
-  <img src="https://img.shields.io/badge/Make_(Integromat)-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make" height="40"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="40"/>
-</p>
+Claude, Github Copilot, Gemini, Codex, Ollama, LMStudio, n8n, Make 
 
 <br/>
 
