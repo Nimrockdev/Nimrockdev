@@ -30,7 +30,21 @@
 
 ## 👨‍💻 Sobre mí
 
-Desarrollador apasionado por crear soluciones tecnológicas **robustas y escalables**. Con más de una década de experiencia en el ciclo de vida completo de aplicaciones críticas, me especializo en full-stack development con enfoque en arquitectura backend resiliente.
+**Del código cliente a la nube:** Transformando ideas en soluciones  
+
+Mis primeros pasos en el desarrollo de software comenzaron con Visual Basic, donde aprendí los fundamentos de la programación y descubrí mi pasión por crear soluciones que resuelven problemas reales. Esa base me llevó a profundizar en Delphi, donde desarrollé aplicaciones de escritorio robustas y eficientes, entendiendo la importancia del rendimiento y la arquitectura de software desde el cliente.
+La evolución natural de la tecnología me llevó al entorno web, donde encontré un mundo de posibilidades infinitas. Me formé en tecnologías como Node.js, aprendiendo a construir APIs escalables, trabajar con bases de datos tanto SQL como NoSQL, y desarrollar ecosistemas completos backend-frontend. Esta transición del desarrollo de escritorio al desarrollo web me dio una perspectiva única sobre cómo ha evolucionado la forma en que las personas interactúan con la tecnología. En este proceso, la seguridad dejó de ser una característica opcional para convertirse en un pilar fundamental de mi trabajo.
+
+**Más allá del código:** gestión y liderazgo  
+
+Con más de 10 años de experiencia en el sector tecnológico, mi carrera ha evolucionado más allá de escribir código. He complementado mis habilidades técnicas con formación en gestión de servidores, aprendiendo a administrar infraestructuras, optimizar recursos y garantizar la disponibilidad de servicios críticos. Entender el ciclo completo desde el desarrollo hasta el despliegue me ha convertido en un profesional más completo.
+
+La gestión de personas y la gestión de proyectos se han convertido en pilares fundamentales de mi desarrollo profesional. He aprendido que la tecnología es tan poderosa como el equipo que la construye. Liderar equipos, coordinar esfuerzos, establecer prioridades y asegurar que cada proyecto se entregue con calidad y dentro de los plazos establecidos, son desafíos que disfruto tanto como resolver problemas técnicos complejos.
+
+**Innovación continua:** IA y automatización  
+
+Actualmente, estoy inmerso en el fascinante mundo de la Inteligencia Artificial. IMplementando modelos de lenguaje como Claude, Codex y Gemini en soluciones empresariales reales. He implementado MCP (Model Context Protocol) para orquestar servicios de IA. Utilizo n8n/make para crear automatizaciones que optimizan procesos y liberan tiempo en tareas estratégicas repetitivas.
+
 
 **Especialidades:**
 - 🎯 Full-Stack Development
