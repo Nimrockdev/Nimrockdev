@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/Nimrockdev/Nimrockdev/master/assets/banner%20Nimrockdev.png" alt="Banner Nimrockdev" width="100%"/>
 </p>
 
-<h1 align="center">⚡ Javier Sánchez Gómez · Nimrockdev ⚡</h1>
-<h3 align="center">Analista Programador Senior Full-Stack</h3>
+<h1 align="center">⚡ Javier Sánchez Gómez ⚡</h1>
+<h3 align="center">Analista Programador</h3>
 <h4 align="center"></h4>
 
 <br/>
@@ -52,6 +52,10 @@ JavasScript, React, AngularJS, Electron ....
 ### Backend
 
 Node.js, Express, GrahQL, WebSockets, Socket.oi, Squelize, TypeScript...
+
+### Escritorio  
+
+Delphi, Visual Basic
 
 ### Bases de Datos
 
